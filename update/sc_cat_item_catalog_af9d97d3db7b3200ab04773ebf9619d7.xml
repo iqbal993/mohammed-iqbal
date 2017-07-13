@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="office chair">b07ef253db7b3200ab04773ebf9619ca</sc_cat_item>
+        <sc_catalog display_value="test">646d5b9fdb7b3200ab04773ebf961922</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-12 10:26:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>af9d97d3db7b3200ab04773ebf9619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test.office chair</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_af9d97d3db7b3200ab04773ebf9619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-12 10:26:41</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

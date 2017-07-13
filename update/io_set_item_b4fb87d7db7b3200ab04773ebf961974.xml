@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="office chair">b07ef253db7b3200ab04773ebf9619ca</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-12 09:09:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b4fb87d7db7b3200ab04773ebf961974</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test variable set.office chair</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>io_set_item_b4fb87d7db7b3200ab04773ebf961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-12 09:09:28</sys_updated_on>
+        <variable_set display_value="test variable set">b6db47d7db7b3200ab04773ebf9619d8</variable_set>
+    </io_set_item>
+</record_update>

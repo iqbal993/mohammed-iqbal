@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_guide_items">
+    <sc_cat_item_guide_items action="INSERT_OR_UPDATE">
+        <condition/>
+        <guide display_value="test order">29046e4bdb733200ab04773ebf9619de</guide>
+        <ignore_mandatory_eval>false</ignore_mandatory_eval>
+        <item display_value="Business Cards and Stationery (Old)">10a56c4fc611227601eb41e5f51112e1</item>
+        <order/>
+        <quantity>1</quantity>
+        <requested_by/>
+        <requested_for/>
+        <show_quantity>false</show_quantity>
+        <sys_class_name>sc_cat_item_guide_items</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 11:46:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d326ee4bdb733200ab04773ebf961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>29046e4bdb733200ab04773ebf9619de</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>sc_cat_item_guide_items_d326ee4bdb733200ab04773ebf961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 11:46:07</sys_updated_on>
+        <use_sc_layout>true</use_sc_layout>
+    </sc_cat_item_guide_items>
+</record_update>

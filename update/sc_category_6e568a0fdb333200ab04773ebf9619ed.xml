@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>this is test catalog</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="">Default</homepage_renderer>
+        <icon/>
+        <image/>
+        <location display_value="Americas">dbf3b4790a0a0a6501a7673fb1b28f7f</location>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 09:30:20</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6e568a0fdb333200ab04773ebf9619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test catalog</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>sc_category_6e568a0fdb333200ab04773ebf9619ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 09:30:20</sys_updated_on>
+        <title>test catalog</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e568a0fdb333200ab04773ebf9619ed"/>
+</record_update>

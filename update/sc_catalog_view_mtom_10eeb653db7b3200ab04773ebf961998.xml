@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="furniture">c0be7653db7b3200ab04773ebf961958</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-12 08:12:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>10eeb653db7b3200ab04773ebf961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>furniture.catalog_furniture</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_furniture">d0eeb653db7b3200ab04773ebf961997</sys_portal_page>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_10eeb653db7b3200ab04773ebf961998</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-12 08:12:23</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>
