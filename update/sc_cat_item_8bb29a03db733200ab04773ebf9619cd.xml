@@ -66,7 +66,7 @@
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
-        <workflow display_value="test ">de335283db733200ab04773ebf9619a1</workflow>
+        <workflow display_value="">de335283db733200ab04773ebf9619a1</workflow>
     </sc_cat_item>
     <sys_translated_text action="delete_multiple" query="documentkey=8bb29a03db733200ab04773ebf9619cd"/>
     <fx_price action="delete_multiple" query="id=8bb29a03db733200ab04773ebf9619cd"/>

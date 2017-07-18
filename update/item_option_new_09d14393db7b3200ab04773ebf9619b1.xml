@@ -39,12 +39,12 @@
         <mask_use_encryption>false</mask_use_encryption>
         <name>test</name>
         <order/>
-        <price_if_checked>64.3709</price_if_checked>
+        <price_if_checked>65.3031</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <question_text>chair</question_text>
         <read_roles/>
         <rec_lookup_price/>
-        <rec_price_if_checked>77.245</rec_price_if_checked>
+        <rec_price_if_checked>78.3637</rec_price_if_checked>
         <record/>
         <record_producer_table/>
         <reference/>

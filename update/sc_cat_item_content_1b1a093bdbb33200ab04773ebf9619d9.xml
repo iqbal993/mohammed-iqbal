@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_content">
+    <sc_cat_item_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="chairs and table ">836fba53db7b3200ab04773ebf9619b9</category>
+        <content_type>literal</content_type>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <entitlement_script/>
+        <group/>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <kb_article/>
+        <list_price>0</list_price>
+        <location/>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <module/>
+        <name>test content</name>
+        <no_cart>false</no_cart>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_search>false</no_search>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=1b1a093bdbb33200ab04773ebf9619d9&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <roles/>
+        <sc_catalogs>c0be7653db7b3200ab04773ebf961958</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <short_description/>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <sys_class_name>sc_cat_item_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 12:59:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1b1a093bdbb33200ab04773ebf9619d9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test content</sys_name>
+        <sys_package display_value="demo app" source="x_142118_demo_app">4d3585f6db733200ab04773ebf9619a8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="demo app">4d3585f6db733200ab04773ebf9619a8</sys_scope>
+        <sys_update_name>sc_cat_item_content_1b1a093bdbb33200ab04773ebf9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 12:59:50</sys_updated_on>
+        <target>_blank</target>
+        <template/>
+        <type>item</type>
+        <url/>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b1a093bdbb33200ab04773ebf9619d9"/>
+    <fx_price action="delete_multiple" query="id=1b1a093bdbb33200ab04773ebf9619d9"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>price</field>
+        <id>1b1a093bdbb33200ab04773ebf9619d9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 12:59:50</sys_created_on>
+        <sys_id>054a05f7dbb33200ab04773ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 12:59:50</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>recurring_price</field>
+        <id>1b1a093bdbb33200ab04773ebf9619d9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 12:59:50</sys_created_on>
+        <sys_id>4d4a05f7dbb33200ab04773ebf9619fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 12:59:50</sys_updated_on>
+        <table>sc_cat_item_content</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>icon</file_name>
+        <image_height>160</image_height>
+        <image_width>160</image_width>
+        <size_bytes>1353</size_bytes>
+        <size_compressed>1376</size_compressed>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 13:00:01</sys_created_on>
+        <sys_id>274a893bdbb33200ab04773ebf961919</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 13:00:01</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_content</table_name>
+        <table_sys_id>1b1a093bdbb33200ab04773ebf9619d9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="icon" sys_id="274a893bdbb33200ab04773ebf961919">274a893bdbb33200ab04773ebf961919</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 13:00:01</sys_created_on>
+        <sys_id>674a893bdbb33200ab04773ebf961919</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AUkFtvqJUE5HDQoaCgAAAA1JSERSAAAAoAAAAKAIAwAAALwRlx8AAAB4UExURf///wAAAJubm6qqqhEREfn5+YuLi+7u7mdnZ/z8/OLi4ufn5+rq6jk5OfT09I+PjzAwMICAgM7OztTU1LW1tQoKCt7e3iQkJMXFxb29vUBAQDc3N0hISGBgYE5OTh8fH6GhoXFxcVdXVxgYGHd3d4KCgpWVlSsrKzMmVOQAAASMSURBVHic7Zxbs6IwDICtqMhFULmIFxQV2f//D7ct9ACSHsedgWRn+j3t4MN+AzRJ03BmM4PBYDAYDAaDwWD4jwg8z1tiS/yCmzPGVj62hhb/wQS7AFtERyH92HOPLaJjVQsyy/cdbBeQkCluR2wXkOJHkF1dbBmI+NneQpLvYbRtbyHJZxycWsEYWwbk0QqGJBPKuhVck4zWVSu4tbFlII6tIPOwZSC8jmCKLQPSEaS5jNtIzUpsF5BOnLlgu4C8Os8Y2wUkpi7odgRJVv4e9Ttob5TehmaYCVQ2Dkmm4tnMUdk4xDbRoZZxSbLa4mSN4INkrcDZH5o1EmGbaEivtWCSYZtosNUyJrlpEqhsbGGL6FBx5kV1GVuLWvBKck/CyZplfCBZK3BclY2pBsLZpRGkGghneSM4xxbRsWsE79giOixVEGKL6NiTrqgFSpBmm3rWCpJdxme1Sop5j8LKaMTGTpOwT3LYrCkUOYVOULKI0auIqFF55use+bVO0yX2CYXavJ8ju4ef7o+yuXRFXj7+ralngKo/yMRJxRm30rGbHlwCFtWOSIXJ1E49liobV/Dv4ufXtEpvqGy8gn8OSv74UU/KVK//runPRLymfWEmwqzpVF90jX4eKf9g3sKoqfq1z1FsCzC7c16zjBfau8Sr7h1iQnFK9RLqInKFvC2NE5V5c1gjw96Wzj8Y8nT9xN3Y/7Sq2eutKpSIBk7Y/BunAOsUgb8WX2Ip6cLlmKSfrHqU0wdt97NVhy1C+fWVIEPoxuafrVowZmyCzWevH0qMQ59U7u2SnXaL15LjDA/YWRFamePH1UoQ7uqNwCNc9alivM1yXQ44S4GT1lu6cLbsQ6ZB4qQhD8op1c61gO8EFtgOvxKTFfRfsrNwoSrorNhWcKMqmLG5y/EqooLOIa8zBdVFUqpWK1FBJ1KZgqhgC3lBunFQYu/EId6dQo8axq1nrMme4KljWiP4z5AX9GgLBmn8RwruUhrHYT2Wx+p+aWYtFpt8ZWGf5Lzxutz627jknNM5CXWbSaTksBH3cLNt+tenDP3ITrC05JuXPPgO1J3zB+xH8fxeh+ySwCx9KnvBySqTL50qFoLIkiNyJ/S0F8kPdNZ28zA71UwQiwGqBXLMkec5j/ZB9sqtZShexhz1OEf4VZ2+0Fs9mInRAcSvLOWsaNG98l6wRuI4Be3TJ1dUf/3z2EFFLcdJkU6cgvvADyj5PWGIE7MtNpz1BvYkYrwBZYQq4P/x+f3tgjZNxfBGT4L4jnfQeIYEg5wH7OlbcilPZuEgxIHbzv1NOzowInPw7AMUFAMOk4/V2+I4eJgj4I378Tb9Ocn+yZ5AeNN0Fi7Q6zAu3OQCJAiNYMUjzbTLRHyVAw2wagTFweO0ewD7DMc2XfOITf0SiuEyqFrWCW61I0AjIc5ioes6QZ6283GN3jhqBAvNdR4Jz+Ma9XFPcH6VvQ/o+nnifCzPN4Gho2+vj4WuB/Pt9dGo/9bCcLjx2+vjMZd73uFc0bfXR8PhxeAWqE++vW4wGAwGg8FgMBgMBoPhA38BAt0whyQJshUAAAAASUVORK5CYILrIh0YSQUAAA==</data>
+        <length>1824</length>
+        <position>1</position>
+        <sys_attachment display_value="icon" sys_id="274a893bdbb33200ab04773ebf961919">274a893bdbb33200ab04773ebf961919</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 13:00:01</sys_created_on>
+        <sys_id>e74a893bdbb33200ab04773ebf961919</sys_id>
+    </sys_attachment_doc>
+</record_update>
